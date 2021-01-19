@@ -1,0 +1,52 @@
+font-family: 'Bebas Neue', cursive;
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.navbar-brand img{
+   
+    padding-left: 60px;
+    height: 30px;
+}
+h1{
+    height: 160px;
+width: 416px;
+left: 135px;
+top: 183px;
+border-radius: nullpx;
+
+}
+
+.navbar-nav{
+    position:absolute;
+    height: 24px;
+    width: 414px;
+    left: 750px;
+    top: 10px;
+    border-radius: nullpx;
+}
+.last{
+    padding-top: 100px;
+    padding-right: 300px;
+    height: 400px;
+    width: 750px;
+    left: 707px;
+    top: 2308px;
+    border-radius: 0px;
+}
+.col-md-4 img{
+    width: 100%;
+}
+.row{
+    padding-top: 70px;
+}
